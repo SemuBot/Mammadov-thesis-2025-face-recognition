@@ -30,12 +30,20 @@ face_recognition: 1.3.0
 
 ## Installation Steps
 
-### 1.
+---
+
 ##pip install --upgrade pip
-##pip install numpy==1.26.4
+
+###pip install numpy==1.26.4
+
 ##pip install opencv-python==4.11.0.86
+
 ##pip install dlib==19.24.1
+
 ##pip install face_recognition==1.3.0
+
 ##pip install deepface==0.0.93
+
 ###If dlib fails to install:
+
 ##pip install dlib==19.24.1 --no-cache-dir
